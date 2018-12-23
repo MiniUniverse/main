@@ -1,0 +1,20 @@
+[
+	{
+		"filename": "Brazier - base and fire.stl",
+		"title": "Brazier - base and fire",
+		"description": "A squat, spherical basin with legs and fire.",
+		"tags": [ "brazier" ]
+	},
+	{
+		"filename": "Brazier - fire.stl",
+		"title": "Brazier - fire",
+		"description": "A spherical fire object to place in a base brazier.",
+		"tags": [ "brazier", "fire" ]
+	},
+	{
+		"filename": "Brazier - base.stl",
+		"title": "Brazier - base",
+		"description": "A squat, spherical basin with legs.",
+		"tags": [ "brazier" ]
+	}
+]
